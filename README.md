@@ -56,8 +56,7 @@
 <td>
 
 📌 **GitHub Profile Score**  
-![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hyunjoo-y&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 </td>
 </tr>
 </table>
