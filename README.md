@@ -55,7 +55,7 @@
 </td>
 <td>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hyunjoo-y)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
