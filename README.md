@@ -38,8 +38,7 @@
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=tokyonight)
 
 </td>
 <td>
