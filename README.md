@@ -55,7 +55,7 @@
 </td>
 <td>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyunjoo-y&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyunjoo-y&theme=github)
 
 
 </td>
