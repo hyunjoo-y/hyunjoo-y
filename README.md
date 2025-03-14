@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=radical&hide_border=true)
 
