@@ -33,12 +33,12 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=react&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunjoo-y&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=radical&hide_border=true)
 
 📌 **GitHub Profile Score**  
-![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=github_dark)
+![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=radical)
 
 📌 **Visitors Count**  
 ![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)
