@@ -8,9 +8,9 @@
 
 💻 Backend / Application Developer | 🚀 Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=A2E1DB&background=8FCACA00&vCenter=true&multiline=true&width=480&height=100&lines=%F0%9F%8C%B1+Becoming+a+better+version+of+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=A2E1DB&background=8FCACA00&vCenter=true&multiline=true&width=480&height=35&lines=%F0%9F%8C%B1+Becoming+a+better+version+of+myself)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=CCE2CB&background=8FCACA00&vCenter=true&multiline=true&width=480&height=100&lines=%F0%9F%8C%8D+Embracing+growth+and+change)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=CCE2CB&background=8FCACA00&vCenter=true&multiline=true&width=480&height=35&lines=%F0%9F%8C%8D+Embracing+growth+and+change)](https://git.io/typing-svg)
 
 
 ---
