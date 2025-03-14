@@ -55,7 +55,7 @@
 </td>
 <td>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark&rank=A,B,C)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark&rank=S,A,B,C)
 
 
 </td>
