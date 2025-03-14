@@ -33,6 +33,8 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <table>
 <tr>
 <td>
@@ -60,6 +62,13 @@
 </td>
 </tr>
 </table>
+
+📌 **Visitors Count**  
+![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)  
+![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=dark)
+
+📌 **Visitors Count**  
+![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)
 
 📌 **Visitors Count**  
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=dark&hide_border=true)
