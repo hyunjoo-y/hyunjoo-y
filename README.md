@@ -1,4 +1,5 @@
-## ![Banner](https://your-image-link.com/banner.png)
+## ![Banner]![image](https://github.com/user-attachments/assets/8982a6ac-b0d7-4b42-a0e7-d86e5125dfbf)
+
 
 # 👋 Hi there, I'm HyunJoo!
 
