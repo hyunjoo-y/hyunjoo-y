@@ -55,8 +55,7 @@
 </td>
 <td>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyunjoo-y&theme=github)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark&rank=SECRET)
 
 </td>
 </tr>
