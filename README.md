@@ -8,13 +8,12 @@
 
 ### 📫 Get in Touch
 
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-11A4DA?style=for-the-badge&logo=wordpress&logoColor=white)](https://your-blog-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
-💻 Backend / Application Developer | 🚀 Tech Enthusiast
+💻  Software / Application Developer | 🚀 Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=A2E1DB&background=8FCACA00&vCenter=true&multiline=true&width=480&height=35&lines=%F0%9F%8C%B1+Becoming+a+better+version+of+myself)](https://git.io/typing-svg)
 
