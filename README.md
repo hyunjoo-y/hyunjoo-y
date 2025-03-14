@@ -39,19 +39,19 @@
 <tr>
 <td>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=transparent)](https://git.io/streak-stats)
 
 </td>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=transparent&hide_border=true)
 
 </td>
 </tr>
 <tr>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=transparent&hide_border=true)
 
 </td>
 <td>
