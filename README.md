@@ -6,7 +6,7 @@
 
 # 👋 Hi there, I'm HyunJoo!Expanding myself every day!
 
-💻 Backend Developer | 🚀 Tech Enthusiast
+💻 Backend / Application Developer | 🚀 Tech Enthusiast
 
 🌱 "Becoming a better version of myself"
 🌍 "Embracing growth and change"
@@ -33,7 +33,36 @@
 
 ### 📊 GitHub Stats
 
+<table>
+<tr>
+<td>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y)](https://git.io/streak-stats)
+
+</td>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=radical&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=radical&hide_border=true)
+
+</td>
+<td>
+
+📌 **GitHub Profile Score**  
+![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=dark)
+
+</td>
+</tr>
+</table>
+
+📌 **Visitors Count**  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=radical&hide_border=true)
 
