@@ -55,8 +55,8 @@
 </td>
 <td>
 
-📌 **Visitors Count**  
-![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyunjoo-y&theme=github)
+
 
 </td>
 </tr>
