@@ -55,8 +55,7 @@
 </td>
 <td>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyunjoo-y&theme=github)
-
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyunjoo-y&theme=github)
 
 </td>
 </tr>
