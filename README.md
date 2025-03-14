@@ -4,11 +4,12 @@
 
 
 
-# 👋 Hi there, I'm HyunJoo!Expanding myself every day!
+# 👋 Hi there, I'm HyunJoo!
 
 💻 Backend / Application Developer | 🚀 Tech Enthusiast
 
 🌱 "Becoming a better version of myself"
+
 🌍 "Embracing growth and change"
 
 
