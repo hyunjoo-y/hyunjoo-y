@@ -55,19 +55,7 @@
 </td>
 <td>
 
-<table>
-<tr>
-<td>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark&rank=S,SS,SSS,A,B,C&column=4&margin-w=15&margin-h=15)
-
-</td>
-</tr>
-</table>](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark&rank=A,B,C&column=4&margin-w=15&margin-h=15)
-
-</td>
-</tr>
-</table>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyunjoo-y)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
