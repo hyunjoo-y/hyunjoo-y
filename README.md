@@ -1,6 +1,6 @@
 ## ![Banner](https://your-image-link.com/banner.png)
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm HyunJoo!
 
 💻 Backend Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Lover
 
