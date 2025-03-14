@@ -55,9 +55,8 @@
 </td>
 <td>
 
-📌 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark)
-
+📌 **Visitors Count**  
+![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)
 
 </td>
 </tr>
