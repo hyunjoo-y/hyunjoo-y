@@ -55,8 +55,10 @@
 </td>
 <td>
 
-📌 **GitHub Profile Score**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hyunjoo-y&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+📌 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark)
+
+
 </td>
 </tr>
 </table>
