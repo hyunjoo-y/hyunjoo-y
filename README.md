@@ -38,7 +38,7 @@
 <tr>
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-ㅛ)](https://git.io/streak-stats&theme=transparent)
 
 </td>
 <td>
