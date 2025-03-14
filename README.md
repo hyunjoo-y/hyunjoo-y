@@ -38,10 +38,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=react&hide_border=true)
 
 📌 **GitHub Profile Score**  
-![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=your-username&theme=github_dark)
+![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=github_dark)
 
 📌 **Visitors Count**  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)
 
 
 ---
