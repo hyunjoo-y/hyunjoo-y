@@ -8,8 +8,8 @@
 
 💻 Backend / Application Developer | 🚀 Tech Enthusiast
 
-"Becoming a better version of myself"
-🌱 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=D4F0F0&background=8FCACA&vCenter=true&width=435&lines=Becoming+a+better+version+of+myself)](https://git.io/typing-svg)
+
+🌱 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D4F0F0&background=8FCACA&vCenter=true&width=435&lines=Becoming+a+better+version+of+myself)](https://git.io/typing-svg)
 
 🌍 "Embracing growth and change"
 
