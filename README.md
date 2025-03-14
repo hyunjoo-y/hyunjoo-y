@@ -33,15 +33,15 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunjoo-y&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjoo-y&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunjoo-y&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjoo-y&layout=compact&theme=radical&hide_border=true)
 
 📌 **GitHub Profile Score**  
-![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=radical)
+![Profile Score](https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=hyunjoo-y&theme=dark)
 
 📌 **Visitors Count**  
-![Profile Views](https://komarev.com/ghpvc/?username=hyunjoo-y&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 
 
 ---
