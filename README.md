@@ -55,6 +55,9 @@
 </td>
 <td>
 
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyunjoo-y&theme=onedark&rank=SECRET&column=3&margin-w=15&margin-h=15)  
+
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyunjoo-y&theme=github)
 
 </td>
