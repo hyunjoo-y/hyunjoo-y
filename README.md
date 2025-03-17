@@ -69,17 +69,6 @@
 </table>
 
 
-
----
-
-### 🚀 Featured Projects
-
-📌 **[Project Name](https://github.com/your-username/project-repo)**  
-📝 Short description of your project. What problem does it solve? Key features? Tech stack used?
-
-📌 **[Another Project](https://github.com/your-username/another-repo)**  
-📝 Another cool project description.
-
 ---
 
 
